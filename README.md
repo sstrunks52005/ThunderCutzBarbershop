@@ -1,6 +1,8 @@
 # ThunderCutzBarbershop
 Website for local OKC barbershop
 
+https://sstrunks52005.github.io/ThunderCutzBarbershop/
+
 <img src="https://i.imgur.com/JyomCjG.jpg" />
 
 ## How It's Made
